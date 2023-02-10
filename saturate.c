@@ -1,4 +1,4 @@
-/* A set of functions to saturate arithmetic for n bit numbers
+/* A set of functions to saturate arithmetic for n bit numbers.
 * 
 * @author Adrian Molofsky
 * @version 12/26/22
